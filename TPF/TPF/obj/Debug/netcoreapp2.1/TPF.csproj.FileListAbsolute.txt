@@ -1,0 +1,11 @@
+E:\TPFcTEDA\TPF\TPF\bin\Debug\netcoreapp2.1\TPF.deps.json
+E:\TPFcTEDA\TPF\TPF\bin\Debug\netcoreapp2.1\TPF.runtimeconfig.json
+E:\TPFcTEDA\TPF\TPF\bin\Debug\netcoreapp2.1\TPF.runtimeconfig.dev.json
+E:\TPFcTEDA\TPF\TPF\bin\Debug\netcoreapp2.1\TPF.dll
+E:\TPFcTEDA\TPF\TPF\bin\Debug\netcoreapp2.1\TPF.pdb
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.csprojAssemblyReference.cache
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.csproj.CoreCompileInputs.cache
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.AssemblyInfoInputs.cache
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.AssemblyInfo.cs
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.dll
+E:\TPFcTEDA\TPF\TPF\obj\Debug\netcoreapp2.1\TPF.pdb
