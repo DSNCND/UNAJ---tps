@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{D19C0586-F1D4-4047-B57A-63FE616BB27D}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>HeroesDeCiudad</RootNamespace>
+    <AssemblyName>HeroesDeCiudad</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HeroesDeCiudad.cs" />
+    <Compile Include="Heroes\Bombero.cs" />
+    <Compile Include="Heroes\BomberoProxy.cs" />
+    <Compile Include="Heroes\BomberoSecretario.cs" />
+    <Compile Include="Heroes\Electricista.cs" />
+    <Compile Include="Heroes\ICuartel.cs" />
+    <Compile Include="Heroes\IDenuncia.cs" />
+    <Compile Include="Heroes\IDenuncias.cs" />
+    <Compile Include="Heroes\IHerramienta.cs" />
+    <Compile Include="Heroes\IInfartable.cs" />
+    <Compile Include="Heroes\IVehiculo.cs" />
+    <Compile Include="Heroes\Mecanico.cs" />
+    <Compile Include="Heroes\Medico.cs" />
+    <Compile Include="Heroes\Operador911.cs" />
+    <Compile Include="Heroes\Passerby.cs" />
+    <Compile Include="Heroes\Policia.cs" />
+    <Compile Include="Heroes\Transeunte.cs" />
+    <Compile Include="Lugares\Calle.cs" />
+    <Compile Include="Lugares\Casa.cs" />
+    <Compile Include="Lugares\Clima.cs" />
+    <Compile Include="Lugares\Dificultades.cs" />
+    <Compile Include="Lugares\Esquina.cs" />
+    <Compile Include="Lugares\IIluminable.cs" />
+    <Compile Include="Lugares\ILugar.cs" />
+    <Compile Include="Lugares\IPatrullable.cs" />
+    <Compile Include="Lugares\ISector.cs" />
+    <Compile Include="Lugares\Plaza.cs" />
+    <Compile Include="Lugares\Sector.cs" />
+    <Compile Include="Patrones\Adapter.cs" />
+    <Compile Include="Patrones\BuilderDeSector.cs" />
+    <Compile Include="Patrones\CompositeDeCiudad.cs" />
+    <Compile Include="Patrones\DecoradorDeSector.cs" />
+    <Compile Include="Patrones\FactoryMethodSectores.cs" />
+    <Compile Include="Patrones\IChainResponsability.cs" />
+    <Compile Include="Patrones\ICommand.cs" />
+    <Compile Include="Patrones\IFabricaDeHeroes.cs" />
+    <Compile Include="Patrones\IIteradorDeDenuncias.cs" />
+    <Compile Include="Patrones\IObservador.cs" />
+    <Compile Include="Patrones\IResponsable.cs" />
+    <Compile Include="Patrones\IStrategy.cs" />
+    <Compile Include="Patrones\TemplateRCP.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Heroes" />
+    <Folder Include="Lugares" />
+    <Folder Include="Patrones" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
