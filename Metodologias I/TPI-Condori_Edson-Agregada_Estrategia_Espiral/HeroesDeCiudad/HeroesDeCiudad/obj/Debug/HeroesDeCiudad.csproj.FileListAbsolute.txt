@@ -1,0 +1,36 @@
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase 06112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase18112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase20112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase22112019\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe.config
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\bin\Debug\HeroesDeCiudad.pdb
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.csprojResolveAssemblyReference.cache
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.exe
+E:\- UNAJ-TEMPORAL-2019-2doCuatri\MetodologiasDeProgramacion\clase23112019-State\HeroesDeCiudad\HeroesDeCiudad\obj\Debug\HeroesDeCiudad.pdb
